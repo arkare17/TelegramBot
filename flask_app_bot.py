@@ -52,15 +52,20 @@ def echo_sticker(bot,update):
 def error(bot,update):
     logger.error("Update '%s' caused error '%s'", update,update.error)
 
+bot = Bot(TOKEN)
+try:
+    bot.set_webhook("https://guarded-peak-47471.herokuapp.com/" + TOKEN)
+except Exception as e:
+    print(e)
+
+dp = Dispatcher(bot, None)
+dp.add_handler(CommandHandler("start",start))
+dp.add_handler(CommandHandler("help",_help))
+dp.add_handler(CommandHandler("news",news))
+dp.add_handler(MessageHandler(Filters.text,reply_text))
+dp.add_handler(MessageHandler(Filters.sticker,echo_sticker))
+dp.add_error_handler(error)
  
 if __name__ == "__main__":
-    bot = Bot(TOKEN)
-    bot.set_webhook("https://86291e8d69ba.ngrok.io/" + TOKEN)
-    dp = Dispatcher(bot, None)
-    dp.add_handler(CommandHandler("start",start))
-    dp.add_handler(CommandHandler("help",_help))
-    dp.add_handler(CommandHandler("news",news))
-    dp.add_handler(MessageHandler(Filters.text,reply_text))
-    dp.add_handler(MessageHandler(Filters.sticker,echo_sticker))
-    dp.add_error_handler(error)
+
     app.run(port=8443)
