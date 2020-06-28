@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arkarebot-cgeent",
+  "private_key_id": "bfa8961e745385e06ba28b08362a19de7c83220f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFr0cfh3s/C1VN\nPw3fyye6DZzAh4VlJdc9MZKedOfuC3QySKxSzQtCtXb7Y2VwdG0EtU317vR+ViR1\nbKnl2M85HR8PssKbMZj3DXBa8oemBO03n5JsQl1/9mP2x0tZhxwjIG8NckK3zOpm\nlZL0xUUjsRegpD24T2OsLTAwzQBRv6wOLlfqoPxo6lyCmObCriXYlc9wy2XIyXKy\n5pJMjQRtHOgMCA1EkD9a1HsQaCuHYpEB/8x45RyKRGVMW3lm8kzo2hguCO1dD7MG\n9jICDoNp2uGYyCLrQKMLVtgsCYDNc0DbCP0jYDZk+j+kIxKPNso+fHj8IHu5a5ja\nEbvAPhh7AgMBAAECggEAKC0858AJwODlR8tKXxLzcoFEu+5vIoUDzziNg23gG0Wx\nqmyRtUxd/wNReLsVSTsoUv4kJ5kWkLyiMUlR6FhdmU59WxvqKE92trNBBALppci3\ni4f/YshEJ3ckjumnOz1V7x+u4k04GRHpC8tXcC7No/jgg/INZzGfYMVYV3q6l2Jh\nO2y6756rtTabpBcMEvdg2eC8jOYuc4NeLWwe15smL90pBcZqE3Wdywom84ygmjNj\nKcOHUKQUue+LoDSqYqD1wVKKTzN8B0lIPbWCwtap53S7uO2marXM/PMn1yKP53JP\nNak1ojPPNc9vsjt8qBVO6O0IkxJSJ9AhbAdwjZLUSQKBgQDjjHaN6c6qGDDRI7rU\nEJiAegS4CVTqrPxWP3Msao5N9SEPuHO0K/L3qw6W3fSNy+yx5wQzXB8IDliO0Vmu\nf+tz20apB0krH6RW2tGpmTaUoXDs626068ZV0x5iqFo6ahdS0FwtRRfGyC1GZUxL\nvmvjOPtRdlKFUxBpPW3flKQ0kwKBgQDeZugmLOGYWG0IWqKuJXGMtI4aplOoQKPD\n8ATjSd6K5Zaij1hYoyXj+HbA4tw/IBsZLPCt/dnSSk8xsYm5T3/tFZqq/2P9HXDn\ni8a7AkmOblZFaEtm7/QVwXK6c2NWEkkInSRkjjHOYjwVfttpJ81LoiXq1WzW+3WA\n0CR/XdgleQKBgAUam3YnbmlGTaIDSSeEj8ch9YUjQHJbGvXcSnsOkM6S1wEBRCcg\nbTy864Dazad4kYCUC/YS9Oc7WyUo8PgHCoL4wib8cNm0xfzkv5ssQpsm29+UkFEi\nkLpQF/hiilORGaDT551kVVoyF0Hi98kjJkxcdNao7sTqzg1uQU6oiN5dAoGBANXS\nuIXjhq3y7jkm8ttdkpNGEI3ctffA1fKO9BQWNEj0PWRjTvxBNy+79WizdC+YzZTh\n2TBfLKn62bMcTx6EKakmqUKYMmjrgl6Ly3CG3XN776PhhwUb1F+KUqSiRbI9+Eu4\n0YGAGLClT8EW6xppsv5xkeT6dx8mOi2zcDOoZSR5AoGAGNHdqf7b7+zhFCvGUpLd\nyr+w517fWzSyZA1i2rmOJ3eyqvAmwy/l7BzokH0l394wn2rHGHtJC4o5QxGExSVx\ngCugBSs/mMWFnISplO0LGTCjNZm5vP9gvuWolpfrlJIptVJneqzGS38YdOmKlKw3\nKxNtHrZg2IlfvO55hYzljgU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "arkarebot@arkarebot-cgeent.iam.gserviceaccount.com",
+  "client_id": "117609877560885404502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arkarebot%40arkarebot-cgeent.iam.gserviceaccount.com"
+}
