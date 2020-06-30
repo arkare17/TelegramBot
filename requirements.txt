@@ -15,6 +15,7 @@ google-auth==1.18.0
 googleapis-common-protos==1.52.0
 grpcio==1.30.0
 gunicorn==20.0.4
+heroku==0.1.4
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
@@ -23,6 +24,7 @@ protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
+python-dateutil==1.5
 python-telegram-bot==12.8
 pytz==2020.1
 requests==2.24.0
